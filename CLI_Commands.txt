@@ -18,3 +18,5 @@ For Generating CSV Reports with HTML Reports
 Home Page Feature Added
 
 Add the Profile Page
+
+Added the Payment page
