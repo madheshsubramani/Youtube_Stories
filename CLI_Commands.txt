@@ -16,3 +16,5 @@ For Generating CSV Reports with HTML Reports
 2. jmeter -g <CSV File Location> -o <Location of HTMl Folder >  (after getting CSV file, If u want to generate HTML Report we can use this command)
 
 Home Page Feature Added
+
+Add the Profile Page
