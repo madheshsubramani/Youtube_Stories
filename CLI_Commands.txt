@@ -19,4 +19,4 @@ Home Page Feature Added
 
 Add the Profile Page
 
-Added the Payment page
+Add the Hosting gate way
