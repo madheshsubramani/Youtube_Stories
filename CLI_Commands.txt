@@ -1,3 +1,4 @@
+
 jmeter -n -t <Location Of your Test Script> -l <Location of result file>
 
 ex:1
@@ -19,6 +20,6 @@ Home Page Feature Added
 
 Add the Profile Page
 
-Added the Payment page
+Add the Hosting gate way
 
 
