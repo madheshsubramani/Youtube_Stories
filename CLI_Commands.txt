@@ -21,4 +21,4 @@ Add the Profile Page
 
 Added the Payment page
 
-Allow payment for Only Indian Banks
+
