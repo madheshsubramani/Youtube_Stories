@@ -20,3 +20,5 @@ Home Page Feature Added
 Add the Profile Page
 
 Added the Payment page
+
+Allow payment for Only Governemnt Banks
